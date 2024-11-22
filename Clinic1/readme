@@ -1,0 +1,28 @@
+# Clinic Management System
+
+## Description
+The **Clinic Management System** is a web application designed to streamline clinic operations. It includes modules for doctors and receptionists to manage patient data, billing, and token generation. This system aims to simplify workflows and improve efficiency.
+
+---
+
+## Features
+### Doctor Module
+- **View Patients**: See a list of registered patients with their details.
+- **View Patient History**: Access a patient’s previous consultations.
+
+### Receptionist Module
+- **Patient Management**: Add new patients to the system.
+- **Generate Tokens**: Assign tokens automatically to new patients.
+- **Billing**: Create and print bills for patients.
+
+---
+
+## Installation
+### Prerequisites
+- XAMPP or any other local server (with PHP and MySQL support)
+- Web browser (Google Chrome, Firefox, etc.)
+
+### Steps
+1. Clone or download this repository to your local system.
+   ```bash
+   git clone https://github.com/your-repository-link.git
